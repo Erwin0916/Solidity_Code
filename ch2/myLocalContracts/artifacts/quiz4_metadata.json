@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "s",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"quiz.sol": "quiz4"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"quiz.sol": {
+			"keccak256": "0xfe560a2e24b2939a2f45bfa51468f6f685fcba8ae096b399e410733126cfb936",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://3afcfa997605b026b568aa12b11a5079feedf00f2086ed2707bc90479c9ad5a4",
+				"dweb:/ipfs/QmZNq9Y4rEiKHbbE75a4cAcwjzKGWqRyHwSPN3joBWwD4B"
+			]
+		}
+	},
+	"version": 1
+}
